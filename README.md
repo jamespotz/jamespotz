@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamespotz&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### Dev Quote
+```text
 If debugging is the process of removing software bugs, then programming must be the process of putting them in. 
 - Edsger Dijkstra
+```
 
