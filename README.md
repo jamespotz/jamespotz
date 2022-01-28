@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://github.com/jamespotz/jamespotz/blob/master/images/undraw_Programming_re_kg9v.png)
+
 <!--
 **jamespotz/jamespotz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
