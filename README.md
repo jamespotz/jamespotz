@@ -1,3 +1,5 @@
+<img src="https://github.com/jamespotz/jamespotz/blob/main/images/github-header-image.png" alt="" width="1000" align="center"> 
+
 ### Hi there 👋
 
 <img src="https://github.com/jamespotz/jamespotz/blob/main/images/gummy-coding.png" alt="" width="500" align="right"> 
